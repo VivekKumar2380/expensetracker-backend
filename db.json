@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "Vivek",
+      "email": "vickykumar21121999@gmail.com",
+      "password": "123456",
+      "history": [],
+      "income": [],
+      "expense": [],
+      "token": "Vivek123456Tue Jun 06 2023 12:36:57 GMT+0530 (India Standard Time)",
+      "id": 2
+    },
+    {
+      "username": "sud kumar",
+      "email": "123@gmail.com",
+      "password": "123",
+      "token": "sud kumar123Tue Jun 06 2023 14:23:48 GMT+0530 (India Standard Time)",
+      "history": [],
+      "income": [],
+      "expense": [],
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
